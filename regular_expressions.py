@@ -1,5 +1,5 @@
 # regular_expressions.py
-"""Volume 3: Regular Expressions.
+"""Volume 2: Regular Expressions.
 <Name>
 <Class>
 <Date>
