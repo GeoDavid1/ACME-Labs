@@ -1,0 +1,373 @@
+[
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "statsmodels.api",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "statsmodels.api",
+        "description": "statsmodels.api",
+        "detail": "statsmodels.api",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "LinearRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "LinearRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "stats",
+        "importPath": "scipy",
+        "description": "scipy",
+        "isExtraImport": true,
+        "detail": "scipy",
+        "documentation": {}
+    },
+    {
+        "label": "stats",
+        "importPath": "scipy",
+        "description": "scipy",
+        "isExtraImport": true,
+        "detail": "scipy",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "AGGREGATED_DATA",
+        "kind": 5,
+        "importPath": "9-22.9-22",
+        "description": "9-22.9-22",
+        "peekOfCode": "AGGREGATED_DATA = pd.read_csv\nplt.plot()",
+        "detail": "9-22.9-22",
+        "documentation": {}
+    },
+    {
+        "label": "AGGREGATED_DATA",
+        "kind": 5,
+        "importPath": "correlation",
+        "description": "correlation",
+        "peekOfCode": "AGGREGATED_DATA = pd.read_csv('Aggregated_Data.csv')\nINTAKE_FAT = AGGREGATED_DATA['intake_fat']\nINTAKE_ENERGY_KJ = AGGREGATED_DATA['intake_energy_kj']\n# Step 1: Perform a square root transformation on the dietary variable\nSQRT_INTAKE_FAT = INTAKE_FAT.apply(lambda x: x**(1/2))\nSQRT_INTAKE_ENERGY_KJ = INTAKE_ENERGY_KJ.apply(lambda x: x**(1/2))\n# Correlate fat intake & energy intake - use the appropriate test according to distribution\n# Calculate the Pearson correlation coefficient\ncorrelation = SQRT_INTAKE_FAT.corr(SQRT_INTAKE_ENERGY_KJ)\n# Plot SQRT_INTAKE_FAT vs. SQRT_INTAKE_ENERGY_KJ as a scatter plot to show its relationship",
+        "detail": "correlation",
+        "documentation": {}
+    },
+    {
+        "label": "INTAKE_FAT",
+        "kind": 5,
+        "importPath": "correlation",
+        "description": "correlation",
+        "peekOfCode": "INTAKE_FAT = AGGREGATED_DATA['intake_fat']\nINTAKE_ENERGY_KJ = AGGREGATED_DATA['intake_energy_kj']\n# Step 1: Perform a square root transformation on the dietary variable\nSQRT_INTAKE_FAT = INTAKE_FAT.apply(lambda x: x**(1/2))\nSQRT_INTAKE_ENERGY_KJ = INTAKE_ENERGY_KJ.apply(lambda x: x**(1/2))\n# Correlate fat intake & energy intake - use the appropriate test according to distribution\n# Calculate the Pearson correlation coefficient\ncorrelation = SQRT_INTAKE_FAT.corr(SQRT_INTAKE_ENERGY_KJ)\n# Plot SQRT_INTAKE_FAT vs. SQRT_INTAKE_ENERGY_KJ as a scatter plot to show its relationship\n# Create a scatter plot",
+        "detail": "correlation",
+        "documentation": {}
+    },
+    {
+        "label": "INTAKE_ENERGY_KJ",
+        "kind": 5,
+        "importPath": "correlation",
+        "description": "correlation",
+        "peekOfCode": "INTAKE_ENERGY_KJ = AGGREGATED_DATA['intake_energy_kj']\n# Step 1: Perform a square root transformation on the dietary variable\nSQRT_INTAKE_FAT = INTAKE_FAT.apply(lambda x: x**(1/2))\nSQRT_INTAKE_ENERGY_KJ = INTAKE_ENERGY_KJ.apply(lambda x: x**(1/2))\n# Correlate fat intake & energy intake - use the appropriate test according to distribution\n# Calculate the Pearson correlation coefficient\ncorrelation = SQRT_INTAKE_FAT.corr(SQRT_INTAKE_ENERGY_KJ)\n# Plot SQRT_INTAKE_FAT vs. SQRT_INTAKE_ENERGY_KJ as a scatter plot to show its relationship\n# Create a scatter plot\nplt.scatter(SQRT_INTAKE_FAT, SQRT_INTAKE_ENERGY_KJ)",
+        "detail": "correlation",
+        "documentation": {}
+    },
+    {
+        "label": "SQRT_INTAKE_FAT",
+        "kind": 5,
+        "importPath": "correlation",
+        "description": "correlation",
+        "peekOfCode": "SQRT_INTAKE_FAT = INTAKE_FAT.apply(lambda x: x**(1/2))\nSQRT_INTAKE_ENERGY_KJ = INTAKE_ENERGY_KJ.apply(lambda x: x**(1/2))\n# Correlate fat intake & energy intake - use the appropriate test according to distribution\n# Calculate the Pearson correlation coefficient\ncorrelation = SQRT_INTAKE_FAT.corr(SQRT_INTAKE_ENERGY_KJ)\n# Plot SQRT_INTAKE_FAT vs. SQRT_INTAKE_ENERGY_KJ as a scatter plot to show its relationship\n# Create a scatter plot\nplt.scatter(SQRT_INTAKE_FAT, SQRT_INTAKE_ENERGY_KJ)\n# Add labels and title\nplt.xlabel('SQRT_INTAKE_FAT')",
+        "detail": "correlation",
+        "documentation": {}
+    },
+    {
+        "label": "SQRT_INTAKE_ENERGY_KJ",
+        "kind": 5,
+        "importPath": "correlation",
+        "description": "correlation",
+        "peekOfCode": "SQRT_INTAKE_ENERGY_KJ = INTAKE_ENERGY_KJ.apply(lambda x: x**(1/2))\n# Correlate fat intake & energy intake - use the appropriate test according to distribution\n# Calculate the Pearson correlation coefficient\ncorrelation = SQRT_INTAKE_FAT.corr(SQRT_INTAKE_ENERGY_KJ)\n# Plot SQRT_INTAKE_FAT vs. SQRT_INTAKE_ENERGY_KJ as a scatter plot to show its relationship\n# Create a scatter plot\nplt.scatter(SQRT_INTAKE_FAT, SQRT_INTAKE_ENERGY_KJ)\n# Add labels and title\nplt.xlabel('SQRT_INTAKE_FAT')\nplt.ylabel('SQRT_INTAKE_ENERGY_KJ')",
+        "detail": "correlation",
+        "documentation": {}
+    },
+    {
+        "label": "correlation",
+        "kind": 5,
+        "importPath": "correlation",
+        "description": "correlation",
+        "peekOfCode": "correlation = SQRT_INTAKE_FAT.corr(SQRT_INTAKE_ENERGY_KJ)\n# Plot SQRT_INTAKE_FAT vs. SQRT_INTAKE_ENERGY_KJ as a scatter plot to show its relationship\n# Create a scatter plot\nplt.scatter(SQRT_INTAKE_FAT, SQRT_INTAKE_ENERGY_KJ)\n# Add labels and title\nplt.xlabel('SQRT_INTAKE_FAT')\nplt.ylabel('SQRT_INTAKE_ENERGY_KJ')\nplt.title('Scatter Plot of SQRT_INTAKE_FAT vs. SQRT_INTAKE_ENERGY_KJ')\n# Show the plot\nplt.show()",
+        "detail": "correlation",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "correlation",
+        "description": "correlation",
+        "peekOfCode": "X = sm.add_constant(SQRT_INTAKE_ENERGY_KJ)\n# Fit a linear regression model\nmodel = sm.OLS(SQRT_INTAKE_FAT, X).fit()\n# Get the predicted values\npredicted_values = model.predict(X)\n# Calculate the residuals\nresiduals = SQRT_INTAKE_FAT - predicted_values\n# Calculate the standard error of residuals\nresidual_std_error = residuals.std()\n# Calculate the studentized residuals",
+        "detail": "correlation",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "correlation",
+        "description": "correlation",
+        "peekOfCode": "model = sm.OLS(SQRT_INTAKE_FAT, X).fit()\n# Get the predicted values\npredicted_values = model.predict(X)\n# Calculate the residuals\nresiduals = SQRT_INTAKE_FAT - predicted_values\n# Calculate the standard error of residuals\nresidual_std_error = residuals.std()\n# Calculate the studentized residuals\nstudentized_residuals = residuals / residual_std_error\n# Print the studentized residuals",
+        "detail": "correlation",
+        "documentation": {}
+    },
+    {
+        "label": "predicted_values",
+        "kind": 5,
+        "importPath": "correlation",
+        "description": "correlation",
+        "peekOfCode": "predicted_values = model.predict(X)\n# Calculate the residuals\nresiduals = SQRT_INTAKE_FAT - predicted_values\n# Calculate the standard error of residuals\nresidual_std_error = residuals.std()\n# Calculate the studentized residuals\nstudentized_residuals = residuals / residual_std_error\n# Print the studentized residuals\nprint(\"Studentized Residuals of SQRT_INTAKE_FAT vs. SQRT_INTAKE_ENERGY_KJ:\")\nprint(studentized_residuals)",
+        "detail": "correlation",
+        "documentation": {}
+    },
+    {
+        "label": "residuals",
+        "kind": 5,
+        "importPath": "correlation",
+        "description": "correlation",
+        "peekOfCode": "residuals = SQRT_INTAKE_FAT - predicted_values\n# Calculate the standard error of residuals\nresidual_std_error = residuals.std()\n# Calculate the studentized residuals\nstudentized_residuals = residuals / residual_std_error\n# Print the studentized residuals\nprint(\"Studentized Residuals of SQRT_INTAKE_FAT vs. SQRT_INTAKE_ENERGY_KJ:\")\nprint(studentized_residuals)\nprint(sum(studentized_residuals))\n# Now correlate the fat residuals & energy",
+        "detail": "correlation",
+        "documentation": {}
+    },
+    {
+        "label": "residual_std_error",
+        "kind": 5,
+        "importPath": "correlation",
+        "description": "correlation",
+        "peekOfCode": "residual_std_error = residuals.std()\n# Calculate the studentized residuals\nstudentized_residuals = residuals / residual_std_error\n# Print the studentized residuals\nprint(\"Studentized Residuals of SQRT_INTAKE_FAT vs. SQRT_INTAKE_ENERGY_KJ:\")\nprint(studentized_residuals)\nprint(sum(studentized_residuals))\n# Now correlate the fat residuals & energy\n# Calculate ther residuals of SQRT_INTAKE_FAT vs. SQRT_INTAKE_ENERGY_KJ\nresiduals_fat = SQRT_INTAKE_FAT - predicted_values",
+        "detail": "correlation",
+        "documentation": {}
+    },
+    {
+        "label": "studentized_residuals",
+        "kind": 5,
+        "importPath": "correlation",
+        "description": "correlation",
+        "peekOfCode": "studentized_residuals = residuals / residual_std_error\n# Print the studentized residuals\nprint(\"Studentized Residuals of SQRT_INTAKE_FAT vs. SQRT_INTAKE_ENERGY_KJ:\")\nprint(studentized_residuals)\nprint(sum(studentized_residuals))\n# Now correlate the fat residuals & energy\n# Calculate ther residuals of SQRT_INTAKE_FAT vs. SQRT_INTAKE_ENERGY_KJ\nresiduals_fat = SQRT_INTAKE_FAT - predicted_values\n# Calculate the Pearson correlation coefficient between residuals and SQRT_INTAKE_ENERGY_KJ\ncorrelation_residual_energy = residuals_fat.corr(SQRT_INTAKE_ENERGY_KJ)",
+        "detail": "correlation",
+        "documentation": {}
+    },
+    {
+        "label": "residuals_fat",
+        "kind": 5,
+        "importPath": "correlation",
+        "description": "correlation",
+        "peekOfCode": "residuals_fat = SQRT_INTAKE_FAT - predicted_values\n# Calculate the Pearson correlation coefficient between residuals and SQRT_INTAKE_ENERGY_KJ\ncorrelation_residual_energy = residuals_fat.corr(SQRT_INTAKE_ENERGY_KJ)\n# Print the correlation coefficient\nprint(\"Pearson Correlation Coefficient between Residuals and SQRT_INTAKE_ENERGY_KJ:\", correlation_residual_energy)",
+        "detail": "correlation",
+        "documentation": {}
+    },
+    {
+        "label": "correlation_residual_energy",
+        "kind": 5,
+        "importPath": "correlation",
+        "description": "correlation",
+        "peekOfCode": "correlation_residual_energy = residuals_fat.corr(SQRT_INTAKE_ENERGY_KJ)\n# Print the correlation coefficient\nprint(\"Pearson Correlation Coefficient between Residuals and SQRT_INTAKE_ENERGY_KJ:\", correlation_residual_energy)",
+        "detail": "correlation",
+        "documentation": {}
+    },
+    {
+        "label": "AGGREGATED_DATA",
+        "kind": 5,
+        "importPath": "model",
+        "description": "model",
+        "peekOfCode": "AGGREGATED_DATA = pd.read_csv('Aggregated_Data.csv')\n# Print columns of AGGREGATED_DATA\nprint(\"Columns of AGGREGATED_DATA:\")\nprint(AGGREGATED_DATA.columns)",
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "AGGREGATED_DATA",
+        "kind": 5,
+        "importPath": "residuals",
+        "description": "residuals",
+        "peekOfCode": "AGGREGATED_DATA = pd.read_csv('Aggregated_Data.csv')\nINTAKE_FAT = AGGREGATED_DATA['intake_fat']\nINTAKE_ENERGY_KJ = AGGREGATED_DATA['intake_energy_kj']\nprint(INTAKE_FAT)\n# Step 1: Perform a square root transformation on the dietary variable\nAGGREGATED_DATA['sqrt_intake_fat'] = INTAKE_FAT.apply(lambda x: x**(1/2))\nAGGREGATED_DATA['sqrt_intake_energy_kj'] = INTAKE_ENERGY_KJ.apply(lambda x: x**(1/2))\nplt.hist(AGGREGATED_DATA['sqrt_intake_fat'], bins = 100)\nplt.xlabel(f'Sqrt(intake_fat)')\nplt.ylabel('Frequency')",
+        "detail": "residuals",
+        "documentation": {}
+    },
+    {
+        "label": "INTAKE_FAT",
+        "kind": 5,
+        "importPath": "residuals",
+        "description": "residuals",
+        "peekOfCode": "INTAKE_FAT = AGGREGATED_DATA['intake_fat']\nINTAKE_ENERGY_KJ = AGGREGATED_DATA['intake_energy_kj']\nprint(INTAKE_FAT)\n# Step 1: Perform a square root transformation on the dietary variable\nAGGREGATED_DATA['sqrt_intake_fat'] = INTAKE_FAT.apply(lambda x: x**(1/2))\nAGGREGATED_DATA['sqrt_intake_energy_kj'] = INTAKE_ENERGY_KJ.apply(lambda x: x**(1/2))\nplt.hist(AGGREGATED_DATA['sqrt_intake_fat'], bins = 100)\nplt.xlabel(f'Sqrt(intake_fat)')\nplt.ylabel('Frequency')\nplt.title('Histogram of Sqrt(intake_fat)')",
+        "detail": "residuals",
+        "documentation": {}
+    },
+    {
+        "label": "INTAKE_ENERGY_KJ",
+        "kind": 5,
+        "importPath": "residuals",
+        "description": "residuals",
+        "peekOfCode": "INTAKE_ENERGY_KJ = AGGREGATED_DATA['intake_energy_kj']\nprint(INTAKE_FAT)\n# Step 1: Perform a square root transformation on the dietary variable\nAGGREGATED_DATA['sqrt_intake_fat'] = INTAKE_FAT.apply(lambda x: x**(1/2))\nAGGREGATED_DATA['sqrt_intake_energy_kj'] = INTAKE_ENERGY_KJ.apply(lambda x: x**(1/2))\nplt.hist(AGGREGATED_DATA['sqrt_intake_fat'], bins = 100)\nplt.xlabel(f'Sqrt(intake_fat)')\nplt.ylabel('Frequency')\nplt.title('Histogram of Sqrt(intake_fat)')\nplt.show()",
+        "detail": "residuals",
+        "documentation": {}
+    },
+    {
+        "label": "AGGREGATED_DATA['sqrt_intake_fat']",
+        "kind": 5,
+        "importPath": "residuals",
+        "description": "residuals",
+        "peekOfCode": "AGGREGATED_DATA['sqrt_intake_fat'] = INTAKE_FAT.apply(lambda x: x**(1/2))\nAGGREGATED_DATA['sqrt_intake_energy_kj'] = INTAKE_ENERGY_KJ.apply(lambda x: x**(1/2))\nplt.hist(AGGREGATED_DATA['sqrt_intake_fat'], bins = 100)\nplt.xlabel(f'Sqrt(intake_fat)')\nplt.ylabel('Frequency')\nplt.title('Histogram of Sqrt(intake_fat)')\nplt.show()\nplt.hist(AGGREGATED_DATA['sqrt_intake_energy_kj'], bins = 100)\nplt.xlabel(f'intake_energy_kj')\nplt.ylabel('Frequency')",
+        "detail": "residuals",
+        "documentation": {}
+    },
+    {
+        "label": "AGGREGATED_DATA['sqrt_intake_energy_kj']",
+        "kind": 5,
+        "importPath": "residuals",
+        "description": "residuals",
+        "peekOfCode": "AGGREGATED_DATA['sqrt_intake_energy_kj'] = INTAKE_ENERGY_KJ.apply(lambda x: x**(1/2))\nplt.hist(AGGREGATED_DATA['sqrt_intake_fat'], bins = 100)\nplt.xlabel(f'Sqrt(intake_fat)')\nplt.ylabel('Frequency')\nplt.title('Histogram of Sqrt(intake_fat)')\nplt.show()\nplt.hist(AGGREGATED_DATA['sqrt_intake_energy_kj'], bins = 100)\nplt.xlabel(f'intake_energy_kj')\nplt.ylabel('Frequency')\nplt.title('Historgram of Sqrt(intake_energy_kj)')",
+        "detail": "residuals",
+        "documentation": {}
+    },
+    {
+        "label": "transformed_data",
+        "kind": 5,
+        "importPath": "residuals",
+        "description": "residuals",
+        "peekOfCode": "transformed_data = AGGREGATED_DATA[['sqrt_intake_fat', 'intake_energy_kj']]\n# Step 3: Fit a linear regression model to predict the transformed variable using energy intake\nX = transformed_data[['intake_energy_kj']]\ny = transformed_data['sqrt_intake_fat']\nmodel = LinearRegression()\nmodel.fit(X, y)\n# Step 4: Calculate the residuals\nresiduals = y - model.predict(X)\n# Somehow plot this linear regression, Chat\nplt.hist(residuals, bins = 100)",
+        "detail": "residuals",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "residuals",
+        "description": "residuals",
+        "peekOfCode": "X = transformed_data[['intake_energy_kj']]\ny = transformed_data['sqrt_intake_fat']\nmodel = LinearRegression()\nmodel.fit(X, y)\n# Step 4: Calculate the residuals\nresiduals = y - model.predict(X)\n# Somehow plot this linear regression, Chat\nplt.hist(residuals, bins = 100)\nplt.title('Residuals of Sqrt(intake_fat) vs. intake_energy_kj')\nplt.ylabel('Frequency')",
+        "detail": "residuals",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "residuals",
+        "description": "residuals",
+        "peekOfCode": "y = transformed_data['sqrt_intake_fat']\nmodel = LinearRegression()\nmodel.fit(X, y)\n# Step 4: Calculate the residuals\nresiduals = y - model.predict(X)\n# Somehow plot this linear regression, Chat\nplt.hist(residuals, bins = 100)\nplt.title('Residuals of Sqrt(intake_fat) vs. intake_energy_kj')\nplt.ylabel('Frequency')\nplt.xlabel('Residuals')",
+        "detail": "residuals",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "residuals",
+        "description": "residuals",
+        "peekOfCode": "model = LinearRegression()\nmodel.fit(X, y)\n# Step 4: Calculate the residuals\nresiduals = y - model.predict(X)\n# Somehow plot this linear regression, Chat\nplt.hist(residuals, bins = 100)\nplt.title('Residuals of Sqrt(intake_fat) vs. intake_energy_kj')\nplt.ylabel('Frequency')\nplt.xlabel('Residuals')\nplt.show()",
+        "detail": "residuals",
+        "documentation": {}
+    },
+    {
+        "label": "residuals",
+        "kind": 5,
+        "importPath": "residuals",
+        "description": "residuals",
+        "peekOfCode": "residuals = y - model.predict(X)\n# Somehow plot this linear regression, Chat\nplt.hist(residuals, bins = 100)\nplt.title('Residuals of Sqrt(intake_fat) vs. intake_energy_kj')\nplt.ylabel('Frequency')\nplt.xlabel('Residuals')\nplt.show()\n# Calculate the means of those transformed residuals for each CID\n# By this approach, you get the mean intake values by CID which\n# should be approximately normally distributed and which are independent of energy intake",
+        "detail": "residuals",
+        "documentation": {}
+    },
+    {
+        "label": "AGGREGATED_DATA['sqrt_intake_fat_residuals']",
+        "kind": 5,
+        "importPath": "residuals",
+        "description": "residuals",
+        "peekOfCode": "AGGREGATED_DATA['sqrt_intake_fat_residuals'] = residuals\n# Group by CID and calculate the mean of residuals for each CID\nmeans_by_CID = AGGREGATED_DATA.groupby('CID')['sqrt_intake_fat_residuals'].mean().reset_index()\nprint(means_by_CID)\n# Create a histogram of the means of residuals\nplt.hist(means_by_CID['sqrt_intake_fat_residuals'], bins=30)\nplt.xlabel('Mean of Residuals')\nplt.ylabel('Frequency')\nplt.title('Histogram of Means of Residuals by CID')\nplt.show()",
+        "detail": "residuals",
+        "documentation": {}
+    },
+    {
+        "label": "means_by_CID",
+        "kind": 5,
+        "importPath": "residuals",
+        "description": "residuals",
+        "peekOfCode": "means_by_CID = AGGREGATED_DATA.groupby('CID')['sqrt_intake_fat_residuals'].mean().reset_index()\nprint(means_by_CID)\n# Create a histogram of the means of residuals\nplt.hist(means_by_CID['sqrt_intake_fat_residuals'], bins=30)\nplt.xlabel('Mean of Residuals')\nplt.ylabel('Frequency')\nplt.title('Histogram of Means of Residuals by CID')\nplt.show()",
+        "detail": "residuals",
+        "documentation": {}
+    },
+    {
+        "label": "EXCEL_FILE",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "EXCEL_FILE = \"/Users/user/Downloads/DellaCorte/Aggregated_by_IR_id_dailyintake.xlsx\"\ndf = pd.read_excel(EXCEL_FILE, sheet_name='Sheet1')\naggregated_data = pd.read_csv('Aggregated_by_IR_id_dailyintake.csv')\nprint(aggregated_data)\n# Print column names from aggregated_data\ncolumn_names = aggregated_data.columns\nprint(column_names)\nfor column in aggregated_data.columns[5:]:\n    print(f\"Column: {column}\")\n    # Descriptive Statistics",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "df = pd.read_excel(EXCEL_FILE, sheet_name='Sheet1')\naggregated_data = pd.read_csv('Aggregated_by_IR_id_dailyintake.csv')\nprint(aggregated_data)\n# Print column names from aggregated_data\ncolumn_names = aggregated_data.columns\nprint(column_names)\nfor column in aggregated_data.columns[5:]:\n    print(f\"Column: {column}\")\n    # Descriptive Statistics\n    dietary_stats = aggregated_data[column].describe()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "aggregated_data",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "aggregated_data = pd.read_csv('Aggregated_by_IR_id_dailyintake.csv')\nprint(aggregated_data)\n# Print column names from aggregated_data\ncolumn_names = aggregated_data.columns\nprint(column_names)\nfor column in aggregated_data.columns[5:]:\n    print(f\"Column: {column}\")\n    # Descriptive Statistics\n    dietary_stats = aggregated_data[column].describe()\n    print(dietary_stats)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "column_names",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "column_names = aggregated_data.columns\nprint(column_names)\nfor column in aggregated_data.columns[5:]:\n    print(f\"Column: {column}\")\n    # Descriptive Statistics\n    dietary_stats = aggregated_data[column].describe()\n    print(dietary_stats)\n    # Get the minimum and maximum values of the data\n    min_value = aggregated_data[column].min()\n    max_value = aggregated_data[column].max()",
+        "detail": "test",
+        "documentation": {}
+    }
+]

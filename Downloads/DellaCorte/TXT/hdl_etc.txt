@@ -1,0 +1,218 @@
+Data: HDL
+
+
+Statistics for Original Distribution:
+
+Measures of Location:
+  Arithmetic Mean: 1.647683411637152
+  Median: 1.6
+  Mode: 2.59
+Measures of Statistical Dispersion:
+  Variance: 0.18217825403781296
+  Standard Deviation: 0.42682344597949745
+  Range: 2.1999999999999997
+  Interquartile Range: (1.34, 1.92)
+Measures of the Distribution Shape:
+  Skewness: 0.381086898632295
+  Kurtosis: -0.3455850872284847
+
+Statistics for Square Root Distribution:
+
+Measures of Location:
+  Arithmetic Mean: 1.2727987330660648
+
+  Median: 1.2649110640673518
+
+  Mode: 1.6093476939431082
+
+Measures of Statistical Dispersion:
+  Variance: 0.027676799199818258
+
+  Standard Deviation: 0.16636345512106396
+
+  Range: 0.9848478941032683
+
+  Interquartile Range: (1.1575836902790226, 1.3856406460551018)
+
+Measures of the Distribution Shape:
+  Skewness: 0.06611515541748701
+
+  Kurtosis: -0.3241836140243244
+
+
+
+
+Data: LDL
+
+
+Statistics for Original Distribution:
+
+Measures of Location:
+  Arithmetic Mean: 2.736925912274235
+  Median: 2.67
+  Mode: 2.15
+Measures of Statistical Dispersion:
+  Variance: 0.7950663577095757
+  Standard Deviation: 0.891664935785621
+  Range: 8.29
+  Interquartile Range: (2.14, 3.24)
+Measures of the Distribution Shape:
+  Skewness: 0.6452723996644202
+  Kurtosis: 1.55517673185881
+
+Statistics for Square Root Distribution:
+
+Measures of Location:
+  Arithmetic Mean: 1.631893853371048
+
+  Median: 1.6340134638368191
+
+  Mode: 1.466287829861518
+
+Measures of Statistical Dispersion:
+  Variance: 0.073875593826596
+
+  Standard Deviation: 0.2718006508943568
+
+  Range: 2.4223278392404914
+
+  Interquartile Range: (1.4628738838327795, 1.8)
+
+Measures of the Distribution Shape:
+  Skewness: -0.05624977699792344
+
+  Kurtosis: 0.8426559215725797
+
+
+
+
+Data: Cholesterol
+
+
+Statistics for Original Distribution:
+
+Measures of Location:
+  Arithmetic Mean: 4.995912198632602
+  Median: 4.89
+  Mode: 4.79
+Measures of Statistical Dispersion:
+  Variance: 1.1189617575869253
+  Standard Deviation: 1.0578098872609034
+  Range: 8.91
+  Interquartile Range: (4.26, 5.6)
+Measures of the Distribution Shape:
+  Skewness: 0.6571132569967972
+  Kurtosis: 1.13019380699982
+
+Statistics for Square Root Distribution:
+
+Measures of Location:
+  Arithmetic Mean: 2.222910592929991
+
+  Median: 2.211334438749598
+
+  Mode: 2.188606862823929
+
+Measures of Statistical Dispersion:
+  Variance: 0.05460034195044851
+
+  Standard Deviation: 0.2336671606162246
+
+  Range: 1.781817297619526
+
+  Interquartile Range: (2.0639767440550294, 2.3664319132398464)
+
+Measures of the Distribution Shape:
+  Skewness: 0.2879002610366686
+
+  Kurtosis: 0.3959363061208898
+
+
+
+
+Data: Triglycerides
+
+
+Statistics for Original Distribution:
+
+Measures of Location:
+  Arithmetic Mean: 1.4246654676258994
+  Median: 1.14
+  Mode: 0.51
+Measures of Statistical Dispersion:
+  Variance: 1.0162536843774366
+  Standard Deviation: 1.0080940850820606
+  Range: 6.84
+  Interquartile Range: (0.81, 1.66)
+Measures of the Distribution Shape:
+  Skewness: 2.732540585374086
+  Kurtosis: 10.04594866226548
+
+Statistics for Square Root Distribution:
+
+Measures of Location:
+  Arithmetic Mean: 1.1414241575779867
+
+  Median: 1.0677078252031311
+
+  Mode: 0.714142842854285
+
+Measures of Statistical Dispersion:
+  Variance: 0.12186019472570196
+
+  Standard Deviation: 0.34908479589592833
+
+  Range: 1.996945499490907
+
+  Interquartile Range: (0.9, 1.2884098726725126)
+
+Measures of the Distribution Shape:
+  Skewness: 1.5570809838721125
+
+  Kurtosis: 3.3292202744759094
+
+
+
+
+Data: HBA1C
+
+
+Statistics for Original Distribution:
+
+Measures of Location:
+  Arithmetic Mean: 5.228301486199576
+  Median: 5.2
+  Mode: 5.2
+Measures of Statistical Dispersion:
+  Variance: 0.24216950341017776
+  Standard Deviation: 0.49210720723250717
+  Range: 9.5
+  Interquartile Range: (5.0, 5.4)
+Measures of the Distribution Shape:
+  Skewness: 7.134030067121077
+  Kurtosis: 91.55455055278354
+
+Statistics for Square Root Distribution:
+
+Measures of Location:
+  Arithmetic Mean: 2.2845164746639908
+
+  Median: 2.280350850198276
+
+  Mode: 2.280350850198276
+
+Measures of Statistical Dispersion:
+  Variance: 0.009289250255003446
+
+  Standard Deviation: 0.09638075666336847
+
+  Range: 1.64119098886857
+
+  Interquartile Range: (2.23606797749979, 2.32379000772445)
+
+Measures of the Distribution Shape:
+  Skewness: 5.293614724647985
+
+  Kurtosis: 55.69700147224446
+
+

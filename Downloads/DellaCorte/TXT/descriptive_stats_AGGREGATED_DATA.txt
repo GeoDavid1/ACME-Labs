@@ -1,0 +1,690 @@
+Column: Participant_ID
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 979.1840956651719
+- Median: 985.0
+- Mode: 1565.0
+Measures of Statistical Dispersion
+- Variance: 236678.7149108759
+- Standard Deviation: 486.4963668013112
+- Range: 1729.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.04077582619548581
+- Kurtosis: -1.1963537177242496
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 30.107526508376193
+- Median: 31.38470965295043
+- Mode: 39.56008088970496
+Measures of Statistical Dispersion
+- Variance: 72.72529151104305
+- Standard Deviation: 8.527912494335473
+- Range: 33.20403007859908
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.44197079865597777
+- Kurtosis: -0.8664468880191403
+
+Column: CID
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 2.123843628767532
+- Median: 2.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 1.169393844473283
+- Standard Deviation: 1.0813851508474133
+- Range: 3.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.44251015182019743
+- Kurtosis: -1.1396810320086297
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.4092129581875554
+- Median: 1.4142135623730951
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.13797070184255697
+- Standard Deviation: 0.3714440763325712
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.21319310435482916
+- Kurtosis: -1.3780138828582629
+
+Column: intake_protein
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 84.11471549892576
+- Median: 75.6625
+- Mode: 58.23
+Measures of Statistical Dispersion
+- Variance: 2150.675000843223
+- Standard Deviation: 46.37537062755643
+- Range: 1102.78
+- Interquartile Range: (55.549, 101.42)
+Measures of the Distribution Shape
+- Skewness: 3.1715338132720476
+- Kurtosis: 31.194118411380444
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 8.886593455940549
+- Median: 8.698419385965575
+- Mode: 7.630858405186142
+Measures of Statistical Dispersion
+- Variance: 5.143479211189063
+- Standard Deviation: 2.267923987083576
+- Range: 33.20813153430949
+- Interquartile Range: (7.453120151084253, 10.070749723828907)
+Measures of the Distribution Shape
+- Skewness: 0.896881471614488
+- Kurtosis: 3.8257774582698985
+
+Column: intake_fat
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 67.54686095726905
+- Median: 56.18
+- Mode: 29.27
+Measures of Statistical Dispersion
+- Variance: 2503.202600088403
+- Standard Deviation: 50.03201575080104
+- Range: 1070.49
+- Interquartile Range: (36.2845, 85.66964999999999)
+Measures of the Distribution Shape
+- Skewness: 3.923689505488948
+- Kurtosis: 41.72984853439966
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 7.789605241133444
+- Median: 7.495331880577404
+- Mode: 5.410175597889592
+Measures of Statistical Dispersion
+- Variance: 6.869321106446163
+- Standard Deviation: 2.6209389741934404
+- Range: 32.7183434788499
+- Interquartile Range: (6.023661677086455, 9.255790079698913)
+Measures of the Distribution Shape
+- Skewness: 1.0145460686718422
+- Kurtosis: 3.6572330853305535
+
+Column: intake_carbohydrate
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 182.55938955001193
+- Median: 164.42825
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 11448.12417842333
+- Standard Deviation: 106.99590729753793
+- Range: 3285.7391
+- Interquartile Range: (114.8, 227.9025)
+Measures of the Distribution Shape
+- Skewness: 3.4669471464888892
+- Kurtosis: 53.158013338198586
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 13.009287691413315
+- Median: 12.822957923058018
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 13.318618168712428
+- Standard Deviation: 3.649468203548625
+- Range: 57.32136687135086
+- Interquartile Range: (10.714476188783099, 15.096439977008892)
+Measures of the Distribution Shape
+- Skewness: 0.5992957240093366
+- Kurtosis: 3.166881686137255
+
+Column: intake_energy_kj
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 7238.194055490571
+- Median: 6507.48
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 14247815.15725065
+- Standard Deviation: 3774.6278170503974
+- Range: 89009.529
+- Interquartile Range: (4886.869975, 8702.270025000002)
+Measures of the Distribution Shape
+- Skewness: 3.0742574578559148
+- Kurtosis: 28.43984133172902
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 82.71785134659504
+- Median: 80.66895310477949
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 395.9747559119811
+- Standard Deviation: 19.899114450446813
+- Range: 298.3446480163504
+- Interquartile Range: (69.9061511886983, 93.2859583240692)
+Measures of the Distribution Shape
+- Skewness: 0.9531144011190906
+- Kurtosis: 3.906422447746374
+
+Column: intake_energy_mj
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 7238194055.49057
+- Median: 6507480000.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 1.4247815157250603e+19
+- Standard Deviation: 3774627817.050391
+- Range: 89009529000.0
+- Interquartile Range: (4886869975.0, 8702270025.0)
+Measures of the Distribution Shape
+- Skewness: 3.0742574578559156
+- Kurtosis: 28.43984133172903
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 82717.85134659505
+- Median: 80668.9531047795
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 395974755.9119792
+- Standard Deviation: 19899.114450446763
+- Range: 298344.6480163504
+- Interquartile Range: (69906.1511886983, 93285.95832406919)
+Measures of the Distribution Shape
+- Skewness: 0.9531144011190888
+- Kurtosis: 3.9064224477463747
+
+Column: intake_energy_kilocalories
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 1729.9718084265794
+- Median: 1555.32676488
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 813890.3128441045
+- Standard Deviation: 902.1586960419461
+- Range: 21273.811488174
+- Interquartile Range: (1167.99124524485, 2079.8947495951497)
+Measures of the Distribution Shape
+- Skewness: 3.0742574578559156
+- Kurtosis: 28.439841331729024
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 40.43930160205003
+- Median: 39.437631314393315
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 94.64034251149917
+- Standard Deviation: 9.728326809451827
+- Range: 145.8554472351787
+- Interquartile Range: (34.175886894270086, 45.60586309352424)
+Measures of the Distribution Shape
+- Skewness: 0.9531144011190895
+- Kurtosis: 3.906422447746373
+
+Column: intake_alcohol
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 8.012945225590833
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 445.52126219172413
+- Standard Deviation: 21.107374592585504
+- Range: 645.2
+- Interquartile Range: (0.0, 5.15)
+Measures of the Distribution Shape
+- Skewness: 6.79440251004123
+- Kurtosis: 102.46617556332276
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.3463513501319115
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 6.200653323288506
+- Standard Deviation: 2.490111106615226
+- Range: 25.400787389370432
+- Interquartile Range: (0.0, 2.2693611435820435)
+Measures of the Distribution Shape
+- Skewness: 1.9665251595382411
+- Kurtosis: 4.16770494251444
+
+Column: intake_fibre_insoluble
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.0
+- Median: 0.0
+- Mode: 0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0
+- Interquartile Range: (0.0, 0.0)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: 0
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.0
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (0.0, 0.0)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: 0
+
+Column: intake_fibre_soluble
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.00015755550250656482
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0002080085976409294
+- Standard Deviation: 0.014422503168345271
+- Range: 1.34
+- Interquartile Range: (0.0, 0.0)
+Measures of the Distribution Shape
+- Skewness: 91.5547350045506
+- Kurtosis: 8383.19204189379
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.00013713052729638102
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.00015754610009441084
+- Standard Deviation: 0.012551736935357227
+- Range: 1.1575836902790226
+- Interquartile Range: (0.0, 0.0)
+Measures of the Distribution Shape
+- Skewness: 91.53110211921941
+- Kurtosis: 8377.423535474367
+
+Column: intake_fibre_englyst
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 7.8061807173549775
+- Median: 5.61
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 55.177207521422254
+- Standard Deviation: 7.428136207786059
+- Range: 64.09
+- Interquartile Range: (2.15, 11.64)
+Measures of the Distribution Shape
+- Skewness: 1.4471575783724937
+- Kurtosis: 2.726872008739148
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 2.427506372708009
+- Median: 2.3685438564654024
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 1.913507726177426
+- Standard Deviation: 1.3832959647802874
+- Range: 8.005623023850173
+- Interquartile Range: (1.466287829861518, 3.411744421846396)
+Measures of the Distribution Shape
+- Skewness: 0.16412229831174577
+- Kurtosis: -0.40036036667702923
+
+Column: intake_fibre_southgate
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 8.07722970876104
+- Median: 5.01
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 77.43690503689322
+- Standard Deviation: 8.799824148066438
+- Range: 86.14
+- Interquartile Range: (1.38, 12.26)
+Measures of the Distribution Shape
+- Skewness: 1.6218705212383757
+- Kurtosis: 3.447325907862185
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 2.342047618731883
+- Median: 2.238302928559939
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 2.592197362988897
+- Standard Deviation: 1.610030236669143
+- Range: 9.281163720137686
+- Interquartile Range: (1.174734012447073, 3.5014282800023193)
+Measures of the Distribution Shape
+- Skewness: 0.2782473818847854
+- Kurtosis: -0.5584732859777355
+
+Column: intake_total_sugars
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 46.55450987705897
+- Median: 29.24
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 2512.8092712330763
+- Standard Deviation: 50.12792905390244
+- Range: 620.2800000000001
+- Interquartile Range: (8.5775, 70.635)
+Measures of the Distribution Shape
+- Skewness: 1.8488578014496464
+- Kurtosis: 5.937769105340847
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 5.784095649508479
+- Median: 5.407402333838309
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 13.099529175798121
+- Standard Deviation: 3.6193271716989224
+- Range: 24.905421096620714
+- Interquartile Range: (2.9287368357967436, 8.404462957944718)
+Measures of the Distribution Shape
+- Skewness: 0.42860051631915425
+- Kurtosis: -0.31137336153547457
+
+Column: intake_nmes
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 22.575711124373356
+- Median: 9.06
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 1215.1757697575472
+- Standard Deviation: 34.85937133336669
+- Range: 605.1500000000001
+- Interquartile Range: (0.25, 31.26)
+Measures of the Distribution Shape
+- Skewness: 3.4982643227472505
+- Kurtosis: 22.824299684385537
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 3.493303262028362
+- Median: 3.0099833886584824
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 10.373162515402884
+- Standard Deviation: 3.2207394361237736
+- Range: 24.59979674712781
+- Interquartile Range: (0.5, 5.591064299397745)
+Measures of the Distribution Shape
+- Skewness: 0.8949496078078294
+- Kurtosis: 0.7059685293590148
+
+Column: intake_intrinsic_sugars
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 22.61124934948675
+- Median: 11.885000000000002
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 733.5124638579465
+- Standard Deviation: 27.0834352300063
+- Range: 232.73
+- Interquartile Range: (3.7, 32.152499999999996)
+Measures of the Distribution Shape
+- Skewness: 1.9210928962979068
+- Kurtosis: 4.469266686150288
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 3.933395222482649
+- Median: 3.4474627589180757
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 7.140077493880638
+- Standard Deviation: 2.6720923438161037
+- Range: 15.255490814785343
+- Interquartile Range: (1.9235384061671346, 5.670317438576234)
+Measures of the Distribution Shape
+- Skewness: 0.6497276347176428
+- Kurtosis: -0.10420029027795596
+
+Column: intake_other_sugars
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.030102888517545952
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.20624304960438788
+- Standard Deviation: 0.45413990091643336
+- Range: 22.027
+- Interquartile Range: (0.0, 0.0)
+Measures of the Distribution Shape
+- Skewness: 34.888405727157384
+- Kurtosis: 1540.0315322227318
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.020872932671230963
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.029668979847357963
+- Standard Deviation: 0.1722468572931244
+- Range: 4.6932930869486515
+- Interquartile Range: (0.0, 0.0)
+Measures of the Distribution Shape
+- Skewness: 12.798583538764717
+- Kurtosis: 226.12066647642172
+
+Column: intake_satd_fa
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 19.422738648842206
+- Median: 15.119
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 307.4448779998543
+- Standard Deviation: 17.534106136323413
+- Range: 315.83
+- Interquartile Range: (8.14, 25.410325)
+Measures of the Distribution Shape
+- Skewness: 3.355250578417829
+- Kurtosis: 27.277801870395244
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 4.041054268728876
+- Median: 3.88831582866728
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 3.092803624905045
+- Standard Deviation: 1.758636865559529
+- Range: 17.77160656778109
+- Interquartile Range: (2.8530685235374214, 5.040865500772904)
+Measures of the Distribution Shape
+- Skewness: 0.7590291928415004
+- Kurtosis: 2.0466379712536678
+
+Column: intake_cholesterol
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 277.80444255788973
+- Median: 200.76999999999998
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 69251.94652638522
+- Standard Deviation: 263.1576457684352
+- Range: 4244.6
+- Interquartile Range: (102.71, 384.425)
+Measures of the Distribution Shape
+- Skewness: 2.6349083247856284
+- Kurtosis: 15.59835011362143
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 14.974439291222836
+- Median: 14.169333078006154
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 53.57380776235781
+- Standard Deviation: 7.319413074991588
+- Range: 65.15059477855901
+- Interquartile Range: (10.134594219799823, 19.606759027464225)
+Measures of the Distribution Shape
+- Skewness: 0.539174377333181
+- Kurtosis: 0.9753319159315996
+
+Column: intake_fructose
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 7.922206260444021
+- Median: 3.23
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 132.1127301471394
+- Standard Deviation: 11.494030196025212
+- Range: 263.13
+- Interquartile Range: (0.56, 11.3)
+Measures of the Distribution Shape
+- Skewness: 3.8348296963084914
+- Kurtosis: 35.62410436272899
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 2.182069036067994
+- Median: 1.797220075561143
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 3.160969629306779
+- Standard Deviation: 1.7779115920952815
+- Range: 16.221282316759055
+- Interquartile Range: (0.7483314773547883, 3.361547262794322)
+Measures of the Distribution Shape
+- Skewness: 0.8830660770627098
+- Kurtosis: 0.8630174109904578
+
+Column: intake_glucose
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 7.395280311530199
+- Median: 3.8999999999999995
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 88.78812971258114
+- Standard Deviation: 9.422745338412852
+- Range: 150.11
+- Interquartile Range: (0.79, 10.86)
+Measures of the Distribution Shape
+- Skewness: 2.6615242820115736
+- Kurtosis: 14.132098208660695
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 2.184175101314791
+- Median: 1.9748417658131499
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 2.6248160876517095
+- Standard Deviation: 1.6201284170249313
+- Range: 12.251938622112013
+- Interquartile Range: (0.8888194417315589, 3.295451410656816)
+Measures of the Distribution Shape
+- Skewness: 0.6414735852313536
+- Kurtosis: 0.15886935576544703
+
+Column: intake_starch
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 80.4229973382669
+- Median: 68.28999999999999
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 4797.236316967297
+- Standard Deviation: 69.26208426669888
+- Range: 1312.88
+- Interquartile Range: (31.02, 113.54400000000001)
+Measures of the Distribution Shape
+- Skewness: 2.381781645001481
+- Kurtosis: 17.079197102573296
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 8.04094058394527
+- Median: 8.2637762878515
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 15.767212852798737
+- Standard Deviation: 3.970794990023879
+- Range: 36.23368598417776
+- Interquartile Range: (5.569560126257728, 10.655702693596412)
+Measures of the Distribution Shape
+- Skewness: 0.05150428366396263
+- Kurtosis: 0.4773001607775851
+
+Column: intake_sucrose
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 20.82520875507281
+- Median: 10.735
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 773.5875835835507
+- Standard Deviation: 27.813442497892105
+- Range: 338.87
+- Interquartile Range: (1.32, 29.92)
+Measures of the Distribution Shape
+- Skewness: 2.732602847575579
+- Kurtosis: 12.913591766583446
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 3.5967185986272048
+- Median: 3.2764308962333137
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 7.88929491138642
+- Standard Deviation: 2.8087888691367353
+- Range: 18.408421985602132
+- Interquartile Range: (1.1489125293076057, 5.469917732470938)
+Measures of the Distribution Shape
+- Skewness: 0.7083065710216231
+- Kurtosis: 0.24294196529820766
+

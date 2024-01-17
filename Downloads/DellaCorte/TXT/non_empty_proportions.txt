@@ -1,0 +1,18 @@
+Proportions of non-empty values in each column:
+
+
+Sqrt_intake_protein_residuals             1.000000
+Sqrt_intake_fat_residuals                 1.000000
+Sqrt_intake_carbohydrate_residuals        0.999558
+Sqrt_intake_sucrose_residuals             0.973504
+Sqrt_intake_alcohol_residuals             0.527710
+Sqrt_intake_fibre_englyst_residuals       0.982115
+Sqrt_intake_fibre_southgate_residuals     0.959594
+Sqrt_intake_total_sugars_residuals        0.989622
+Sqrt_intake_nmes_residuals                0.929565
+Sqrt_intake_intrinsic_sugars_residuals    0.986531
+Sqrt_intake_satd_fa_residuals             0.999117
+Sqrt_intake_cholesterol_residuals         0.993376
+Sqrt_intake_fructose_residuals            0.971958
+Sqrt_intake_glucose_residuals             0.973946
+Sqrt_intake_starch_residuals              0.993597

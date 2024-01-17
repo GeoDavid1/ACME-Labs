@@ -1,0 +1,2400 @@
+Column: Unnamed: 0
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 3254.0
+- Median: 3254.0
+- Mode: 0
+Measures of Statistical Dispersion
+- Variance: 3531132.5
+- Standard Deviation: 1879.1307831015913
+- Range: 6508
+- Interquartile Range: (1627.0, 4881.0)
+Measures of the Distribution Shape
+- Skewness: 0.0
+- Kurtosis: -1.2
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 53.779353230810955
+- Median: 57.043842787806646
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 361.83675629786364
+- Standard Deviation: 19.02200715744434
+- Range: 80.67217612039482
+- Interquartile Range: (40.33608806019741, 69.86415389883427)
+Measures of the Distribution Shape
+- Skewness: -0.5664286630989165
+- Kurtosis: -0.597780748678431
+
+Column: participant_id
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 974.0971112476951
+- Median: 977.0
+- Mode: 149.0
+Measures of Statistical Dispersion
+- Variance: 227290.88468198729
+- Standard Deviation: 476.7503378939414
+- Range: 1648.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.006409090619288097
+- Kurtosis: -1.202903204403782
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 30.09266041170071
+- Median: 31.25699921617557
+- Mode: 12.206555615733702
+Measures of Statistical Dispersion
+- Variance: 68.53943215985319
+- Standard Deviation: 8.278854519790356
+- Range: 30.184481172719583
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.3786242218572411
+- Kurtosis: -0.9618883149205177
+
+Column: CID
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 2.499769549854048
+- Median: 2.0
+- Mode: 1
+Measures of Statistical Dispersion
+- Variance: 1.2503456752189155
+- Standard Deviation: 1.118188568721267
+- Range: 3
+- Interquartile Range: (1.0, 3.0)
+Measures of the Distribution Shape
+- Skewness: 0.000247432468172444
+- Kurtosis: -1.3602802572547195
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.5364836579959427
+- Median: 1.4142135623730951
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.139008874975812
+- Standard Deviation: 0.37283893972573734
+- Range: 1.0
+- Interquartile Range: (1.0, 1.7320508075688772)
+Measures of the Distribution Shape
+- Skewness: -0.2377137124300464
+- Kurtosis: -1.3084352789911338
+
+Column: centre_id
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 1.988322065150584
+- Median: 2.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.6705259684879749
+- Standard Deviation: 0.8188565005469364
+- Range: 2.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.021521277335234464
+- Kurtosis: -1.5083306590663301
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.3776261231031945
+- Median: 1.4142135623730951
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.09048223332616243
+- Standard Deviation: 0.3008026484693285
+- Range: 0.7320508075688772
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.13548569344741973
+- Kurtosis: -1.517475975808793
+
+Column: study_arm_id
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 2.5113706207744313
+- Median: 3.0
+- Mode: 3.0
+Measures of Statistical Dispersion
+- Variance: 1.2433008412576323
+- Standard Deviation: 1.11503400901391
+- Range: 3.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.017906344050763735
+- Kurtosis: -1.3527182274322567
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.540541611299945
+- Median: 1.7320508075688772
+- Mode: 1.7320508075688772
+Measures of Statistical Dispersion
+- Variance: 0.13812338825844747
+- Standard Deviation: 0.37164955032725044
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.25745850901175743
+- Kurtosis: -1.2922912460984037
+
+Column: age_at_study
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 45.58587204874333
+- Median: 45.0
+- Mode: 49.0
+Measures of Statistical Dispersion
+- Variance: 196.0392823664107
+- Standard Deviation: 14.001402871370093
+- Range: 244.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 2.7214543221073866
+- Kurtosis: 36.948539624186346
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 6.686375006331385
+- Median: 6.708203932499369
+- Mode: 7.0
+Measures of Statistical Dispersion
+- Variance: 1.021002911626659
+- Standard Deviation: 1.0104468870884105
+- Range: 15.556349186104045
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.18834726671416904
+- Kurtosis: 10.076699670369445
+
+Column: has_withdrawn
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.13275968039336203
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.11515224160753634
+- Standard Deviation: 0.33934089291969566
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 2.1650984015431596
+- Kurtosis: 2.688477200831398
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.13275968039336203
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.11515224160753634
+- Standard Deviation: 0.33934089291969566
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 2.1650984015431596
+- Kurtosis: 2.688477200831398
+
+Column: ecid_baseline_is_eligible
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.2983399938518291
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.2093654222803249
+- Standard Deviation: 0.4575646645888698
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.881720258715418
+- Kurtosis: -1.2229454237776372
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.2983399938518291
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.2093654222803249
+- Standard Deviation: 0.4575646645888698
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.881720258715418
+- Kurtosis: -1.2229454237776372
+
+Column: ecid_bmi_25
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.9987654320987654
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.0012338053515735389
+- Standard Deviation: 0.03512556549827403
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -28.4341018255192
+- Kurtosis: 807.4950533323346
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.9987654320987654
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.0012338053515735389
+- Standard Deviation: 0.03512556549827403
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -28.4341018255192
+- Kurtosis: 807.4950533323346
+
+Column: ecid_pregnant
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.00022680880018144704
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0002268088001814344
+- Standard Deviation: 0.015060172647796386
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 66.40030120413613
+- Kurtosis: 4409.000000000005
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.00022680880018144704
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0002268088001814344
+- Standard Deviation: 0.015060172647796386
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 66.40030120413613
+- Kurtosis: 4409.000000000005
+
+Column: ecid_breastfeeding
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.0
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: 0
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.0
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: 0
+
+Column: ecid_eating_disorder
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.0
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: 0
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.0
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: 0
+
+Column: ecid_diabetes_1
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.002458512599877074
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0024539765987703255
+- Standard Deviation: 0.049537628110057165
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 20.11213960616394
+- Kurtosis: 402.9935407491357
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.002458512599877074
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0024539765987703255
+- Standard Deviation: 0.049537628110057165
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 20.11213960616394
+- Kurtosis: 402.9935407491357
+
+Column: ecid_diagnosed_condition
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.0022113022113022115
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0022069546031208073
+- Standard Deviation: 0.04697823541940254
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 21.202730465098085
+- Kurtosis: 447.7758162167639
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.0022113022113022115
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0022069546031208073
+- Standard Deviation: 0.04697823541940254
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 21.202730465098085
+- Kurtosis: 447.7758162167639
+
+Column: ecid_diabetes_1.1
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.0007382798080472499
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0007380071788715031
+- Standard Deviation: 0.02716628754304686
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 36.7831332547301
+- Kurtosis: 1351.9970438801347
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.0007382798080472499
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0007380071788715031
+- Standard Deviation: 0.02716628754304686
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 36.7831332547301
+- Kurtosis: 1351.9970438801347
+
+Column: ecid_eligible
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.9987710674157303
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.001227637835278419
+- Standard Deviation: 0.035037663096708076
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -28.480567202390095
+- Kurtosis: 809.4269169534517
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.9987710674157303
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.001227637835278419
+- Standard Deviation: 0.035037663096708076
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -28.480567202390095
+- Kurtosis: 809.4269169534517
+
+Column: ecid_weight_recorded
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 84.79649661954517
+- Median: 81.9
+- Mode: 75.3
+Measures of Statistical Dispersion
+- Variance: 297.95993236822363
+- Standard Deviation: 17.26151593482518
+- Range: 107.19999999999999
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.8603853799141319
+- Kurtosis: 0.8793484390656037
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 9.163097866997939
+- Median: 9.049861877399014
+- Mode: 8.677557259966655
+Measures of Statistical Dispersion
+- Variance: 0.8346470969640775
+- Standard Deviation: 0.9135902237677883
+- Range: 5.451530858984534
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.5761650227272651
+- Kurtosis: 0.24670395720714433
+
+Column: ecid_height_recorded
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 168.91628764597422
+- Median: 168.3
+- Mode: 165.0
+Measures of Statistical Dispersion
+- Variance: 75.62892889137935
+- Standard Deviation: 8.696489457900777
+- Range: 68.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.22364142095722986
+- Kurtosis: -0.008950716369589884
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 12.992490532792463
+- Median: 12.973048986263793
+- Mode: 12.84523257866513
+Measures of Statistical Dispersion
+- Variance: 0.11154596055976891
+- Standard Deviation: 0.33398497055970783
+- Range: 2.6571019506458207
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.14794825927580807
+- Kurtosis: 0.002591582609907661
+
+Column: ecid_informed_consent_provided
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 2.154392425039453
+- Median: 3.0
+- Mode: 3.0
+Measures of Statistical Dispersion
+- Variance: 0.9724734665882983
+- Standard Deviation: 0.9861406931002787
+- Range: 2.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.3126536722311914
+- Kurtosis: -1.8990865436987339
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.4227270698550054
+- Median: 1.7320508075688772
+- Mode: 1.7320508075688772
+Measures of Statistical Dispersion
+- Variance: 0.1302743744373135
+- Standard Deviation: 0.36093541588117045
+- Range: 0.7320508075688772
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.31426411131877213
+- Kurtosis: -1.8982182996658354
+
+Column: ecid_weight_recorded.1
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 84.63218210361066
+- Median: 82.0
+- Mode: 81.3
+Measures of Statistical Dispersion
+- Variance: 293.724517561177
+- Standard Deviation: 17.138393085735224
+- Range: 110.4
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.905190358447131
+- Kurtosis: 1.1566438578257103
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 9.154780741051221
+- Median: 9.055385138137417
+- Mode: 9.016651263079881
+Measures of Statistical Dispersion
+- Variance: 0.8223868587508909
+- Standard Deviation: 0.9068554784258024
+- Range: 5.593844347324575
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.6006234843203615
+- Kurtosis: 0.41735914115087613
+
+Column: ecid_bioimpedance_collected
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.9930538922155688
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.006899511948790921
+- Standard Deviation: 0.08306330085417339
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -11.87745234838946
+- Kurtosis: 139.14052821162701
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.9930538922155688
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.006899511948790921
+- Standard Deviation: 0.08306330085417339
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -11.87745234838946
+- Kurtosis: 139.14052821162701
+
+Column: ecid_bioimp_fm1
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 26.93183571296125
+- Median: 25.45
+- Mode: 25.62
+Measures of Statistical Dispersion
+- Variance: 109.97160375119444
+- Standard Deviation: 10.48673465627859
+- Range: 89.53999999999999
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.9312223542328972
+- Kurtosis: 1.7475439512531712
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 5.0923818974205775
+- Median: 5.044799302251775
+- Mode: 5.061620293937506
+Measures of Statistical Dispersion
+- Variance: 0.9996676877168994
+- Standard Deviation: 0.9998338300522239
+- Range: 9.264671151181112
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.1736181562883005
+- Kurtosis: 0.7473527640835091
+
+Column: cid_response_valid
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 1.0
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: 0
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.0
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: 0
+
+Column: cid_status
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.0
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: 0
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.0
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: 0
+
+Column: cid_moissl_measure_id
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 991.098529996027
+- Median: 848.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 506003.5387776479
+- Standard Deviation: 711.3392571604971
+- Range: 2679.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.6953067909835338
+- Kurtosis: -0.4862791519650531
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 29.12431648863865
+- Median: 29.120439557122072
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 142.9295047250437
+- Standard Deviation: 11.955312824223535
+- Range: 50.76871642217914
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.026253308063596093
+- Kurtosis: -0.7121245781102767
+
+Column: cid_moissl_recorded_sex
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 1.6848528356066044
+- Median: 2.0
+- Mode: 2.0
+Measures of Statistical Dispersion
+- Variance: 0.21586817076382225
+- Standard Deviation: 0.4646161542217643
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.7960085260642963
+- Kurtosis: -1.3668611731175058
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.2836753327379276
+- Median: 1.4142135623730951
+- Mode: 1.4142135623730951
+Measures of Statistical Dispersion
+- Variance: 0.0370371227337296
+- Standard Deviation: 0.1924503123762848
+- Range: 0.41421356237309515
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.7960085260643008
+- Kurtosis: -1.3668611731175002
+
+Column: cid_moissl_recorded_height
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 168.96817640047678
+- Median: 168.4
+- Mode: 170.0
+Measures of Statistical Dispersion
+- Variance: 72.54047731704206
+- Standard Deviation: 8.517069761193815
+- Range: 52.400000000000006
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.24289622324550045
+- Kurtosis: -0.2515054918861388
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 12.994665576453306
+- Median: 12.976902558006667
+- Mode: 13.038404810405298
+Measures of Statistical Dispersion
+- Variance: 0.10688542202030221
+- Standard Deviation: 0.32693336021321256
+- Range: 2.005355403614839
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.17940138225670305
+- Kurtosis: -0.2802566725931235
+
+Column: cid_moissl_recorded_weight
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 84.7092967818832
+- Median: 82.0
+- Mode: 80.5
+Measures of Statistical Dispersion
+- Variance: 294.2906051094213
+- Standard Deviation: 17.154900323505856
+- Range: 110.4
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.9075972534690092
+- Kurtosis: 1.1625097514831522
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 9.158962053570999
+- Median: 9.055385138137417
+- Mode: 8.972179222463181
+Measures of Statistical Dispersion
+- Variance: 0.8230378747366753
+- Standard Deviation: 0.9072143488375144
+- Range: 5.593844347324575
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.6031637299087107
+- Kurtosis: 0.4205808808900504
+
+Column: cid_moissl_fat_free_mass
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 52.37978601509734
+- Median: 50.7087
+- Mode: 44.1037
+Measures of Statistical Dispersion
+- Variance: 100.69131582664066
+- Standard Deviation: 10.034506257242588
+- Range: 68.28989999999999
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.8135661837048818
+- Kurtosis: 0.5189582301387965
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 7.205685784806247
+- Median: 7.121004142675385
+- Mode: 6.641061662113973
+Measures of Statistical Dispersion
+- Variance: 0.4580603723783163
+- Standard Deviation: 0.6768015753367572
+- Range: 4.483455161645979
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.5744087726007419
+- Kurtosis: 0.04926821084402233
+
+Column: cid_moissl_fat_free_mass_percent
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 62.62452165276121
+- Median: 62.2075
+- Mode: 50.2579
+Measures of Statistical Dispersion
+- Variance: 84.36848784750796
+- Standard Deviation: 9.185232051913983
+- Range: 71.4402
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.3298956030070927
+- Kurtosis: 0.2690209515307487
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 7.89237249849018
+- Median: 7.887173131103437
+- Mode: 7.089280640516356
+Measures of Statistical Dispersion
+- Variance: 0.33511113694593897
+- Standard Deviation: 0.5788878448766557
+- Range: 4.412096820888255
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.10525657481731207
+- Kurtosis: 0.039846827652619154
+
+Column: cid_moissl_fat_mass
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 32.329511044894716
+- Median: 30.4682
+- Mode: 19.1909
+Measures of Statistical Dispersion
+- Variance: 157.49760783570477
+- Standard Deviation: 12.54980509154245
+- Range: 104.0415
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.9032107092230284
+- Kurtosis: 1.4975458178690015
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 5.586796088522659
+- Median: 5.520729105718932
+- Mode: 4.380741946291747
+Measures of Statistical Dispersion
+- Variance: 1.1594001972477326
+- Standard Deviation: 1.0767544739854729
+- Range: 7.838421536217158
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.3002543950197551
+- Kurtosis: 0.3121799117728772
+
+Column: cid_moissl_fat_mass_percent
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 37.37547838696862
+- Median: 37.7925
+- Mode: 38.2944
+Measures of Statistical Dispersion
+- Variance: 84.36849382480293
+- Standard Deviation: 9.18523237728926
+- Range: 71.4402
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.3298956814471771
+- Kurtosis: 0.2690212880565377
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 6.067850915967093
+- Median: 6.150312998874246
+- Mode: 6.188246924614434
+Measures of Statistical Dispersion
+- Variance: 0.605921308259308
+- Standard Deviation: 0.7784094733874376
+- Range: 5.819171171179948
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.6831453670214844
+- Kurtosis: 0.7994986055530244
+
+Column: cid_dxa_fat_mass
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 32328.692637773263
+- Median: 29737.0
+- Mode: 26499.0
+Measures of Statistical Dispersion
+- Variance: 192606511.413884
+- Standard Deviation: 13878.274799624196
+- Range: 95605.126
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.9202686077795197
+- Kurtosis: 1.0606401029223287
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 175.81873674817638
+- Median: 172.4441938715247
+- Mode: 162.78513445643617
+Measures of Statistical Dispersion
+- Variance: 1417.1849264383593
+- Standard Deviation: 37.64551668443879
+- Range: 245.74301960452806
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.3627869340914825
+- Kurtosis: -0.1166260166562374
+
+Column: ecid_consent_blood
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.979315831344471
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.02027246147687556
+- Standard Deviation: 0.14238139441962055
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -6.743573248903915
+- Kurtosis: 43.54506182543164
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.979315831344471
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.02027246147687556
+- Standard Deviation: 0.14238139441962055
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -6.743573248903915
+- Kurtosis: 43.54506182543164
+
+Column: ecid_enough_blood_full_lipidcid
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.9711769415532426
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.02801471946788209
+- Standard Deviation: 0.1673759823507605
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -5.639191856606937
+- Kurtosis: 29.848277771607844
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.9711769415532426
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.02801471946788209
+- Standard Deviation: 0.1673759823507605
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -5.639191856606937
+- Kurtosis: 29.848277771607844
+
+Column: ecid_cholesterol
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 4.995912198632602
+- Median: 4.89
+- Mode: 4.79
+Measures of Statistical Dispersion
+- Variance: 1.1189617575869253
+- Standard Deviation: 1.0578098872609034
+- Range: 8.91
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.6571132569967971
+- Kurtosis: 1.130193806999821
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 2.222910592929991
+- Median: 2.211334438749598
+- Mode: 2.188606862823929
+Measures of Statistical Dispersion
+- Variance: 0.05460034195044851
+- Standard Deviation: 0.2336671606162246
+- Range: 1.781817297619526
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.2879002610366686
+- Kurtosis: 0.3959363061208898
+
+Column: ecid_ldl
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 2.736925912274235
+- Median: 2.67
+- Mode: 2.15
+Measures of Statistical Dispersion
+- Variance: 0.7950663577095757
+- Standard Deviation: 0.891664935785621
+- Range: 8.29
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.6452723996644204
+- Kurtosis: 1.555176731858809
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.6318938533710479
+- Median: 1.6340134638368191
+- Mode: 1.466287829861518
+Measures of Statistical Dispersion
+- Variance: 0.073875593826596
+- Standard Deviation: 0.2718006508943568
+- Range: 2.4223278392404914
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.056249776997920976
+- Kurtosis: 0.8426559215725797
+
+Column: ecid_hdl
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 1.6476834116371524
+- Median: 1.6
+- Mode: 2.59
+Measures of Statistical Dispersion
+- Variance: 0.18217825403781296
+- Standard Deviation: 0.42682344597949745
+- Range: 2.1999999999999997
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.3810868986322919
+- Kurtosis: -0.34558508722848646
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.2727987330660648
+- Median: 1.2649110640673518
+- Mode: 1.6093476939431082
+Measures of Statistical Dispersion
+- Variance: 0.027676799199818258
+- Standard Deviation: 0.16636345512106396
+- Range: 0.9848478941032683
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.066115155417487
+- Kurtosis: -0.3241836140243244
+
+Column: ecid_trig
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 1.4246654676258992
+- Median: 1.14
+- Mode: 0.51
+Measures of Statistical Dispersion
+- Variance: 1.0162536843774366
+- Standard Deviation: 1.0080940850820606
+- Range: 6.84
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 2.7325405853740867
+- Kurtosis: 10.045948662265488
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.1414241575779867
+- Median: 1.0677078252031311
+- Mode: 0.714142842854285
+Measures of Statistical Dispersion
+- Variance: 0.12186019472570196
+- Standard Deviation: 0.34908479589592833
+- Range: 1.996945499490907
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 1.5570809838721127
+- Kurtosis: 3.329220274475912
+
+Column: ecid_hba1c_mmol_mol
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 33.007561436672965
+- Median: 32.0
+- Mode: 32.0
+Measures of Statistical Dispersion
+- Variance: 31.10965275079444
+- Standard Deviation: 5.577602778147117
+- Range: 104.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 8.659825030985242
+- Kurtosis: 121.23566984874725
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 5.731165209927526
+- Median: 5.656854249492381
+- Mode: 5.656854249492381
+Measures of Statistical Dispersion
+- Variance: 0.16140847985591877
+- Standard Deviation: 0.4017567421412101
+- Range: 6.473596146271925
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 5.56940315094921
+- Kurtosis: 60.953773886668905
+
+Column: ecid_blood_sample_provided_and_stored_appropriately
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.9823717948717948
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.017331338802870123
+- Standard Deviation: 0.13164854272976256
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -7.339937949901783
+- Kurtosis: 51.95795259481321
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.9823717948717948
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.017331338802870123
+- Standard Deviation: 0.13164854272976256
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -7.339937949901783
+- Kurtosis: 51.95795259481321
+
+Column: ecid_hba1c_mmol_mol.1
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 33.88671556642217
+- Median: 33.0
+- Mode: 33.0
+Measures of Statistical Dispersion
+- Variance: 23.072800541380644
+- Standard Deviation: 4.803415507884014
+- Range: 64.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 4.25036111590402
+- Kurtosis: 34.06358832812177
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 5.809166838106197
+- Median: 5.744562646538029
+- Mode: 5.744562646538029
+Measures of Statistical Dispersion
+- Variance: 0.140410647575021
+- Standard Deviation: 0.3747140877722921
+- Range: 4.5315475297760965
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 3.020233080822792
+- Kurtosis: 20.064483752201163
+
+Column: ecid_hba1c_percent
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 5.228301486199576
+- Median: 5.2
+- Mode: 5.2
+Measures of Statistical Dispersion
+- Variance: 0.24216950341017776
+- Standard Deviation: 0.49210720723250717
+- Range: 9.5
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 7.134030067121073
+- Kurtosis: 91.55455055278345
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 2.2845164746639908
+- Median: 2.280350850198276
+- Mode: 2.280350850198276
+Measures of Statistical Dispersion
+- Variance: 0.009289250255003446
+- Standard Deviation: 0.09638075666336847
+- Range: 1.64119098886857
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 5.293614724647988
+- Kurtosis: 55.6970014722445
+
+Column: ecid_intake24_3_days_complete
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.8383527965580824
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.13560072908657494
+- Standard Deviation: 0.36824004275278777
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -1.8399369511080288
+- Kurtosis: 1.3870715397689528
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.8383527965580824
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.13560072908657494
+- Standard Deviation: 0.36824004275278777
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -1.8399369511080288
+- Kurtosis: 1.3870715397689528
+
+Column: ecid_intake24_daycount.1
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 2.1083492670490758
+- Median: 2.0
+- Mode: 4.0
+Measures of Statistical Dispersion
+- Variance: 2.7510080514041197
+- Standard Deviation: 1.6586163062637844
+- Range: 6.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.020728647489001734
+- Kurtosis: -1.5114939540590022
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.2027007872495301
+- Median: 1.4142135623730951
+- Mode: 2.0
+Measures of Statistical Dispersion
+- Variance: 0.662282188043458
+- Standard Deviation: 0.8138072179843688
+- Range: 2.449489742783178
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.5331160708424488
+- Kurtosis: -1.3168456722153672
+
+Column: cid_response_valid.1
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 1.0
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: 0
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.0
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: 0
+
+Column: cid_moissl_measure_id.1
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 1048.0411971830986
+- Median: 994.0
+- Mode: 4.0
+Measures of Statistical Dispersion
+- Variance: 451554.72426203976
+- Standard Deviation: 671.9782171038282
+- Range: 2682.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.4942258095779154
+- Kurtosis: -0.4996345147344483
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 30.32151181815102
+- Median: 31.52776554086889
+- Mode: 2.0
+Measures of Statistical Dispersion
+- Variance: 128.69243248161578
+- Standard Deviation: 11.344268706338712
+- Range: 50.79768334587948
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.25656361947997586
+- Kurtosis: -0.5688423197059067
+
+Column: cid_moissl_recorded_sex.1
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 1.68556338028169
+- Median: 2.0
+- Mode: 2.0
+Measures of Statistical Dispersion
+- Variance: 0.2156421622372502
+- Standard Deviation: 0.4643728698333379
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.7997631337811595
+- Kurtosis: -1.3613381150038841
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.2839696499790199
+- Median: 1.4142135623730951
+- Mode: 1.4142135623730951
+Measures of Statistical Dispersion
+- Variance: 0.03699834580099333
+- Standard Deviation: 0.19234954068308385
+- Range: 0.41421356237309515
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.7997631337811606
+- Kurtosis: -1.361338115003883
+
+Column: cid_moissl_recorded_height.1
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 168.8970774647887
+- Median: 168.35000000000002
+- Mode: 170.0
+Measures of Statistical Dispersion
+- Variance: 75.02623661252473
+- Standard Deviation: 8.661768676923018
+- Range: 95.5
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.07159555606636203
+- Kurtosis: 0.8969090215919997
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 12.991762539428432
+- Median: 12.974975772135231
+- Mode: 13.038404810405298
+Measures of Statistical Dispersion
+- Variance: 0.11122274683182082
+- Standard Deviation: 0.33350074487446174
+- Range: 3.926407864639966
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.056173633978636506
+- Kurtosis: 1.491520569986032
+
+Column: cid_moissl_recorded_weight.1
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 84.65665492957747
+- Median: 82.0
+- Mode: 75.9
+Measures of Statistical Dispersion
+- Variance: 293.3670497435121
+- Standard Deviation: 17.12796105038519
+- Range: 107.29999999999998
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.8781958826601909
+- Kurtosis: 1.025907702905653
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 9.156104928249931
+- Median: 9.055385138137417
+- Mode: 8.712060605849802
+Measures of Statistical Dispersion
+- Variance: 0.8226871510290722
+- Standard Deviation: 0.9070210311944659
+- Range: 5.458570321040942
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.5825636318907447
+- Kurtosis: 0.3379185765605359
+
+Column: cid_moissl_fat_free_mass.1
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 52.3768896830986
+- Median: 50.5011
+- Mode: 46.6225
+Measures of Statistical Dispersion
+- Variance: 101.9752589606721
+- Standard Deviation: 10.0982800001125
+- Range: 74.5772
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.7552287265340415
+- Kurtosis: 0.33864044019332207
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 7.204931709694334
+- Median: 7.106412597070479
+- Mode: 6.828067076413354
+Measures of Statistical Dispersion
+- Variance: 0.4660128307645954
+- Standard Deviation: 0.6826513244435957
+- Range: 5.036212200485579
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.522967341523509
+- Kurtosis: -0.06751594919648252
+
+Column: cid_moissl_fat_free_mass_percent.1
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 62.63669841549296
+- Median: 62.2007
+- Mode: 49.6476
+Measures of Statistical Dispersion
+- Variance: 84.1863360566619
+- Standard Deviation: 9.175311223967386
+- Range: 68.43799999999999
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.3588097133244339
+- Kurtosis: 0.2231099220685313
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 7.893237131942831
+- Median: 7.88674203922047
+- Mode: 7.0461053071892135
+Measures of Statistical Dispersion
+- Variance: 0.33362346746378474
+- Standard Deviation: 0.5776014780657895
+- Range: 4.488573410171934
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.1334357476557842
+- Kurtosis: 0.08589412913261052
+
+Column: cid_moissl_fat_mass.1
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 32.27976580985916
+- Median: 30.59
+- Mode: 12.9091
+Measures of Statistical Dispersion
+- Variance: 153.95548474535036
+- Standard Deviation: 12.407879945637383
+- Range: 96.38409999999999
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.819608348416545
+- Kurtosis: 1.2063404701711447
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 5.577106902588653
+- Median: 5.530822699605552
+- Mode: 3.592923600635004
+Measures of Statistical Dispersion
+- Variance: 1.1760585120670404
+- Standard Deviation: 1.084462314728843
+- Range: 8.531968172158049
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.15178085028432486
+- Kurtosis: 0.40332126769909715
+
+Column: cid_moissl_fat_mass_percent.1
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 37.36330165492957
+- Median: 37.7993
+- Mode: 25.7715
+Measures of Statistical Dispersion
+- Variance: 84.18633273580922
+- Standard Deviation: 9.175311043000624
+- Range: 68.43799999999999
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.35880966374330325
+- Kurtosis: 0.2231100439822491
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 6.0599631791880855
+- Median: 6.148113530898933
+- Mode: 5.076563798476288
+Measures of Statistical Dispersion
+- Variance: 0.6403734054076863
+- Standard Deviation: 0.8002333443488132
+- Range: 6.809652274262898
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.9230663233319084
+- Kurtosis: 1.8551627912810016
+
+Column: cid_status.1
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.0
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: 0
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.0
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: 0
+
+Column: prof_age
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 44.0025
+- Median: 44.0
+- Mode: 44.0
+Measures of Statistical Dispersion
+- Variance: 140.4390181363352
+- Standard Deviation: 11.850696947282687
+- Range: 63.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.1464100651701576
+- Kurtosis: -0.4889976148638935
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 6.570969380503585
+- Median: 6.6332495807108
+- Mode: 6.6332495807108
+Measures of Statistical Dispersion
+- Variance: 0.8253772612726327
+- Standard Deviation: 0.9085027579884569
+- Range: 4.757359312880715
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.15857968237322634
+- Kurtosis: -0.515506768017802
+
+Column: prof_residence_country
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 1.98875
+- Median: 2.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.6715431519699749
+- Standard Deviation: 0.8194773651358376
+- Range: 2.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.02075767824262378
+- Kurtosis: -1.5106414939544315
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.3777494751278845
+- Median: 1.4142135623730951
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.09061301692041573
+- Standard Deviation: 0.30101996099995715
+- Range: 0.7320508075688772
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.13596123015218178
+- Kurtosis: -1.5194873482360183
+
+Column: prof_gender
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 1.685
+- Median: 2.0
+- Mode: 2.0
+Measures of Statistical Dispersion
+- Variance: 0.21590994371481645
+- Standard Deviation: 0.46466110630739954
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.7972758507648241
+- Kurtosis: -1.3660603580480606
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.2837362902255705
+- Median: 1.4142135623730951
+- Mode: 1.4142135623730951
+Measures of Statistical Dispersion
+- Variance: 0.037044289839040435
+- Standard Deviation: 0.19246893213981428
+- Range: 0.41421356237309515
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.797275850764828
+- Kurtosis: -1.3660603580480561
+
+Column: prof_current_weight_kg
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 83.58068535825545
+- Median: 82.0
+- Mode: 84.0
+Measures of Statistical Dispersion
+- Variance: 388.2960107519359
+- Standard Deviation: 19.705228005581056
+- Range: 198.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.13713471812252445
+- Kurtosis: 4.018766221230651
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 9.041118069291382
+- Median: 9.055385138137417
+- Mode: 9.16515138991168
+Measures of Statistical Dispersion
+- Variance: 1.840015842704616
+- Standard Deviation: 1.3564718363108819
+- Range: 14.071247279470288
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -3.2459348174177514
+- Kurtosis: 21.506709112719363
+
+Column: prof_height_cm
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 167.97816593886463
+- Median: 169.0
+- Mode: 165.0
+Measures of Statistical Dispersion
+- Variance: 362.7804218525956
+- Standard Deviation: 19.046795579640047
+- Range: 200.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -6.771409383064388
+- Kurtosis: 57.79585205305935
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 12.891402965054718
+- Median: 13.0
+- Mode: 12.84523257866513
+Measures of Statistical Dispersion
+- Variance: 1.7910128195400978
+- Standard Deviation: 1.338287270932552
+- Range: 14.142135623730951
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -8.914967886822778
+- Kurtosis: 83.32633897504049
+
+Column: prof_Pr_education_UK
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 2.5798165137614677
+- Median: 3.0
+- Mode: 3.0
+Measures of Statistical Dispersion
+- Variance: 1.218341878035617
+- Standard Deviation: 1.1037852499628797
+- Range: 4.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.25367140314645387
+- Kurtosis: -0.5490545811197305
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.5661597601137514
+- Median: 1.7320508075688772
+- Mode: 1.7320508075688772
+Measures of Statistical Dispersion
+- Variance: 0.127193502134629
+- Standard Deviation: 0.3566419803312966
+- Range: 1.2360679774997898
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.17417088199864617
+- Kurtosis: -0.7757778923308383
+
+Column: prof_Pr_education_Den
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 4.4465648854961835
+- Median: 5.0
+- Mode: 5.0
+Measures of Statistical Dispersion
+- Variance: 1.6548830149022786
+- Standard Deviation: 1.2864225646739404
+- Range: 6.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.7033966061757408
+- Kurtosis: 0.16015779173174005
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 2.0810532615441173
+- Median: 2.23606797749979
+- Mode: 2.23606797749979
+Measures of Statistical Dispersion
+- Variance: 0.11600358900782837
+- Standard Deviation: 0.34059299612268656
+- Range: 1.6457513110645907
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -1.2280693691560347
+- Kurtosis: 1.5775512020920255
+
+Column: prof_Pr_education_Port
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 3.533333333333333
+- Median: 4.0
+- Mode: 4.0
+Measures of Statistical Dispersion
+- Variance: 1.3944020356234073
+- Standard Deviation: 1.1808480154632124
+- Range: 5.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.3521864780824384
+- Kurtosis: -0.6262690893658083
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.8489211142211697
+- Median: 2.0
+- Mode: 2.0
+Measures of Statistical Dispersion
+- Variance: 0.11504317658063654
+- Standard Deviation: 0.33918015357717574
+- Range: 1.4494897427831779
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.6984875218627365
+- Kurtosis: -0.31856334417789345
+
+Column: prof_Pr_employment_status
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 2.3001253132832082
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 5.337454529741286
+- Standard Deviation: 2.31029316965213
+- Range: 8.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 1.6524981551011186
+- Kurtosis: 1.4616995373214592
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.37883454268613
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.3991907366879514
+- Standard Deviation: 0.6318154292892438
+- Range: 2.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 1.3843660983335502
+- Kurtosis: 0.3810597589160607
+
+Column: prof_Pr_smoking
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 3.2775689223057642
+- Median: 4.0
+- Mode: 4.0
+Measures of Statistical Dispersion
+- Variance: 0.9040984121746254
+- Standard Deviation: 0.950840897403254
+- Range: 3.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -1.156631038209438
+- Kurtosis: 0.25224584340226386
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.7850444439996689
+- Median: 2.0
+- Mode: 2.0
+Measures of Statistical Dispersion
+- Variance: 0.09124242469070735
+- Standard Deviation: 0.3020636103384639
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -1.450433931887329
+- Kurtosis: 1.1611239849123653
+
+Column: prof_Pr_smoke_amount
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 4.4393939393939394
+- Median: 5.0
+- Mode: 6.0
+Measures of Statistical Dispersion
+- Variance: 3.011566042100394
+- Standard Deviation: 1.7353864244312833
+- Range: 6.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.7819509857986912
+- Kurtosis: -0.4611728280721459
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 2.0509478720291203
+- Median: 2.23606797749979
+- Mode: 2.449489742783178
+Measures of Statistical Dispersion
+- Variance: 0.23478544321326153
+- Standard Deviation: 0.48454663677840293
+- Range: 1.6457513110645907
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -1.152067073490516
+- Kurtosis: 0.24992425905517512
+
+Column: prof_Pr_alcohol_freq
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 5.979924717691342
+- Median: 6.0
+- Mode: 8.0
+Measures of Statistical Dispersion
+- Variance: 5.346740483971106
+- Standard Deviation: 2.31230198805673
+- Range: 10.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.01764220502452882
+- Kurtosis: -0.7135692910732163
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 2.3925954243442833
+- Median: 2.449489742783178
+- Mode: 2.8284271247461903
+Measures of Statistical Dispersion
+- Variance: 0.2555721869670061
+- Standard Deviation: 0.5055414789777454
+- Range: 2.3166247903554
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.5058407971633019
+- Kurtosis: -0.16867694923864684
+
+Column: prof_Pr_alcohol_last_12m
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 10.0
+- Median: 10.0
+- Mode: 10.0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: nan
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 3.1622776601683795
+- Median: 3.1622776601683795
+- Mode: 3.1622776601683795
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: nan
+
+Column: elig_age
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 44.014751075599264
+- Median: 44.0
+- Mode: 41.0
+Measures of Statistical Dispersion
+- Variance: 140.6652189263133
+- Standard Deviation: 11.860236883229327
+- Range: 63.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.13773162559451615
+- Kurtosis: -0.5050521032397834
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 6.571753025718953
+- Median: 6.6332495807108
+- Mode: 6.4031242374328485
+Measures of Statistical Dispersion
+- Variance: 0.8273217397833921
+- Standard Deviation: 0.9095722839793394
+- Range: 4.757359312880715
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.16517863181792036
+- Kurtosis: -0.5252714771158522
+
+Column: elig_gender
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 1.686539643515673
+- Median: 2.0
+- Mode: 2.0
+Measures of Statistical Dispersion
+- Variance: 0.2153353125418146
+- Standard Deviation: 0.4640423607191639
+- Range: 1.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.804966298679192
+- Kurtosis: -1.3536948091225558
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.2843740314509817
+- Median: 1.4142135623730951
+- Mode: 1.4142135623730951
+Measures of Statistical Dispersion
+- Variance: 0.036945698716477515
+- Standard Deviation: 0.1922126393255072
+- Range: 0.41421356237309515
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.8049662986791923
+- Kurtosis: -1.353694809122555
+
+Column: elig_residence_country
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 1.988322065150584
+- Median: 2.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.6708352516837994
+- Standard Deviation: 0.819045329443859
+- Range: 2.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.021536176871849635
+- Kurtosis: -1.5090418865144763
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.3776261231031945
+- Median: 1.4142135623730951
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.09052396867364071
+- Standard Deviation: 0.30087201377602524
+- Range: 0.7320508075688772
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -0.1355794924361561
+- Kurtosis: -1.5182083240808193
+
+Column: elig_ethnicity_code
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 1.1542716656422864
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 1.906689921232459
+- Standard Deviation: 1.3808294323458126
+- Range: 16.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 6.338194678017085
+- Kurtosis: 47.182829138653396
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.9761458085181275
+- Median: 1.0
+- Mode: 1.0
+Measures of Statistical Dispersion
+- Variance: 0.2015348951745564
+- Standard Deviation: 0.4489263805732031
+- Range: 4.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 1.6406250783816185
+- Kurtosis: 11.828385554549529
+
+Column: elig_height
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 1.6865089121081744
+- Median: 1.69
+- Mode: 1.68
+Measures of Statistical Dispersion
+- Variance: 0.02532224515422792
+- Standard Deviation: 0.15912964888488856
+- Range: 1.99
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -7.224351063911205
+- Kurtosis: 75.15675341246765
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 1.2942251812045773
+- Median: 1.3
+- Mode: 1.296148139681572
+Measures of Statistical Dispersion
+- Variance: 0.011497158921672131
+- Standard Deviation: 0.10722480553338454
+- Range: 1.4106735979665885
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -10.799399528787863
+- Kurtosis: 128.04736817723702
+
+Column: elig_current_weight
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 84.72692071296865
+- Median: 82.0
+- Mode: 84.0
+Measures of Statistical Dispersion
+- Variance: 319.4473806105614
+- Standard Deviation: 17.873090964087925
+- Range: 156.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.5569490193554403
+- Kurtosis: 1.740324825755403
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 9.147520183631501
+- Median: 9.055385138137417
+- Mode: 9.16515138991168
+Measures of Statistical Dispersion
+- Variance: 1.0504408335291484
+- Standard Deviation: 1.0249101587598537
+- Range: 12.489995996796797
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: -1.2863070447195952
+- Kurtosis: 14.793924822184428
+
+Column: elig_pregnant
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 0.0
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: 0
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 0.0
+- Median: 0.0
+- Mode: 0.0
+Measures of Statistical Dispersion
+- Variance: 0.0
+- Standard Deviation: 0.0
+- Range: 0.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0
+- Kurtosis: 0
+
+Column: ecid_waist
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 94.08762681159419
+- Median: 92.4
+- Mode: 82.0
+Measures of Statistical Dispersion
+- Variance: 195.1054001195544
+- Standard Deviation: 13.968013463608717
+- Range: 84.9
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.7012738860430203
+- Kurtosis: 0.46679516761441864
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 9.674001962788612
+- Median: 9.612491872558333
+- Mode: 9.055385138137417
+Measures of Statistical Dispersion
+- Variance: 0.5014052093973572
+- Standard Deviation: 0.7080997171284262
+- Range: 4.178991612338168
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.5013599020003979
+- Kurtosis: 0.07462061984783519
+
+Column: ecid_hip
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 109.20416574551707
+- Median: 107.45
+- Mode: 107.0
+Measures of Statistical Dispersion
+- Variance: 120.43392204051639
+- Standard Deviation: 10.974239018743686
+- Range: 90.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 1.1185926310006469
+- Kurtosis: 2.215159907292169
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 10.437449687209892
+- Median: 10.365809182114052
+- Mode: 10.344080432788601
+Measures of Statistical Dispersion
+- Variance: 0.2638583830877146
+- Standard Deviation: 0.5136714738894059
+- Range: 4.094132900406139
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.9209753445885595
+- Kurtosis: 1.5234271576539196
+
+Column: ecid_sbp
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 121.09465020576133
+- Median: 119.6666666666667
+- Mode: 114.0
+Measures of Statistical Dispersion
+- Variance: 210.23102617231396
+- Standard Deviation: 14.499345715318121
+- Range: 145.99999999999994
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.7066662293022745
+- Kurtosis: 1.3185704159466076
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 10.985092359104893
+- Median: 10.939226054281294
+- Mode: 10.677078252031311
+Measures of Statistical Dispersion
+- Variance: 0.4224739143732992
+- Standard Deviation: 0.6499799338235752
+- Range: 6.221951281223168
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.48257711964417455
+- Kurtosis: 0.7301138549744817
+
+Column: ecid_dbp
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 76.51873349302869
+- Median: 76.0
+- Mode: 71.0
+Measures of Statistical Dispersion
+- Variance: 84.74009622095066
+- Standard Deviation: 9.205438404603589
+- Range: 91.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.4760403497340478
+- Kurtosis: 0.6047734031463654
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 8.731895564622203
+- Median: 8.717797887081348
+- Mode: 8.426149773176359
+Measures of Statistical Dispersion
+- Variance: 0.2727836057215257
+- Standard Deviation: 0.5222868998180269
+- Range: 5.051821896262936
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.27644112950358113
+- Kurtosis: 0.291076879934149
+
+Column: ecid_bpm
+
+Original Distribution:
+Measures of Location
+- Arithmetic Mean: 66.34178810797516
+- Median: 65.66666666666667
+- Mode: 64.0
+Measures of Statistical Dispersion
+- Variance: 113.48660849539739
+- Standard Deviation: 10.653009363339422
+- Range: 81.0
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.48144629067557254
+- Kurtosis: 0.6088051706658617
+
+Square Root of Distribution:
+Measures of Location
+- Arithmetic Mean: 8.119134003635123
+- Median: 8.103497187428813
+- Mode: 8.0
+Measures of Statistical Dispersion
+- Variance: 0.421528897503785
+- Standard Deviation: 0.6492525683459288
+- Range: 4.675444679663241
+- Interquartile Range: (nan, nan)
+Measures of the Distribution Shape
+- Skewness: 0.21869794110043564
+- Kurtosis: 0.22023483752001782
+

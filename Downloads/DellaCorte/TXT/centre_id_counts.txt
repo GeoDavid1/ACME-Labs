@@ -1,0 +1,4 @@
+Counts of each value in the 'centre_id' column:
+1.0    555.0
+2.0    536.0
+3.0    536.0

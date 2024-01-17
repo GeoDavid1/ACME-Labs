@@ -1,0 +1,80 @@
+Column intake_fat:  Tertile Number 1: 66.17
+Column intake_fat:  Tertile Number 2: 62.54
+Column intake_fat:  Tertile Number 3: 73.93
+
+Column intake_carbohydrate:  Tertile Number 1: 147.10
+Column intake_carbohydrate:  Tertile Number 2: 166.25
+Column intake_carbohydrate:  Tertile Number 3: 234.32
+
+Column intake_energy_kj:  Tertile Number 1: 6632.56
+Column intake_energy_kj:  Tertile Number 2: 6727.00
+Column intake_energy_kj:  Tertile Number 3: 8354.87
+
+Column intake_energy_mj:  Tertile Number 1: 6632555151.15
+Column intake_energy_mj:  Tertile Number 2: 6727003830.96
+Column intake_energy_mj:  Tertile Number 3: 8354873975.08
+
+Column intake_energy_kilocalories:  Tertile Number 1: 1585.22
+Column intake_energy_kilocalories:  Tertile Number 2: 1607.79
+Column intake_energy_kilocalories:  Tertile Number 3: 1996.87
+
+Column intake_alcohol:  Tertile Number 1: 6.09
+Column intake_alcohol:  Tertile Number 2: 6.84
+Column intake_alcohol:  Tertile Number 3: 11.11
+
+Column intake_fibre_insoluble:  Tertile Number 1: 0.00
+Column intake_fibre_insoluble:  Tertile Number 2: 0.00
+Column intake_fibre_insoluble:  Tertile Number 3: 0.00
+
+Column intake_fibre_soluble:  Tertile Number 1: 0.00
+Column intake_fibre_soluble:  Tertile Number 2: 0.00
+Column intake_fibre_soluble:  Tertile Number 3: 0.00
+
+Column intake_fibre_englyst:  Tertile Number 1: 3.60
+Column intake_fibre_englyst:  Tertile Number 2: 8.30
+Column intake_fibre_englyst:  Tertile Number 3: 11.52
+
+Column intake_fibre_southgate:  Tertile Number 1: 3.46
+Column intake_fibre_southgate:  Tertile Number 2: 8.58
+Column intake_fibre_southgate:  Tertile Number 3: 12.19
+
+Column intake_total_sugars:  Tertile Number 1: 9.99
+Column intake_total_sugars:  Tertile Number 2: 35.50
+Column intake_total_sugars:  Tertile Number 3: 94.19
+
+Column intake_nmes:  Tertile Number 1: 0.18
+Column intake_nmes:  Tertile Number 2: 10.02
+Column intake_nmes:  Tertile Number 3: 57.53
+
+Column intake_intrinsic_sugars:  Tertile Number 1: 8.83
+Column intake_intrinsic_sugars:  Tertile Number 2: 24.00
+Column intake_intrinsic_sugars:  Tertile Number 3: 35.01
+
+Column intake_other_sugars:  Tertile Number 1: 0.01
+Column intake_other_sugars:  Tertile Number 2: 0.03
+Column intake_other_sugars:  Tertile Number 3: 0.05
+
+Column intake_satd_fa:  Tertile Number 1: 16.88
+Column intake_satd_fa:  Tertile Number 2: 17.36
+Column intake_satd_fa:  Tertile Number 3: 24.03
+
+Column intake_cholesterol:  Tertile Number 1: 286.73
+Column intake_cholesterol:  Tertile Number 2: 272.74
+Column intake_cholesterol:  Tertile Number 3: 273.94
+
+Column intake_fructose:  Tertile Number 1: 2.00
+Column intake_fructose:  Tertile Number 2: 7.18
+Column intake_fructose:  Tertile Number 3: 14.59
+
+Column intake_glucose:  Tertile Number 1: 1.91
+Column intake_glucose:  Tertile Number 2: 6.36
+Column intake_glucose:  Tertile Number 3: 13.91
+
+Column intake_starch:  Tertile Number 1: 65.49
+Column intake_starch:  Tertile Number 2: 79.35
+Column intake_starch:  Tertile Number 3: 96.44
+
+Column intake_sucrose:  Tertile Number 1: 2.41
+Column intake_sucrose:  Tertile Number 2: 13.10
+Column intake_sucrose:  Tertile Number 3: 46.97
+

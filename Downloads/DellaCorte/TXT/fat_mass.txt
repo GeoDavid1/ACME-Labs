@@ -1,0 +1,31 @@
+Data: cid_moissl_fat_mass
+
+Statistics for Original Distribution:
+
+Measures of Location:
+  Arithmetic Mean: 32.329511044894716
+  Median: 30.4682
+  Mode: 19.1909
+Measures of Statistical Dispersion:
+  Variance: 157.49760783570477
+  Standard Deviation: 12.54980509154245
+  Range: 104.0415
+  Interquartile Range: (23.6275, 39.3531)
+Measures of the Distribution Shape:
+  Skewness: 0.9032107092230284
+  Kurtosis: 1.4975458178690015
+
+Statistics for Square Root Distribution:
+
+Measures of Location:
+  Arithmetic Mean: 5.586796088522659
+  Median: 5.520729105718932
+  Mode: 4.380741946291747
+Measures of Statistical Dispersion:
+  Variance: 1.1594001972477326
+  Standard Deviation: 1.0767544739854729
+  Range: 7.838421536217158
+  Interquartile Range: (nan, nan)
+Measures of the Distribution Shape:
+  Skewness: 0.300254395019755
+  Kurtosis: 0.3121799117728763
