@@ -5,4 +5,3 @@ skills in mathematics, statistics, and computation needed to solve the problems 
 
 Feel free to look around.
 
-Updated 3/11/23
