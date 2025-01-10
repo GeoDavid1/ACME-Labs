@@ -1,0 +1,85 @@
+Outcome,Intake decresed,Intake increased,result
+Body Fat (%),Non-Milk Extrinisic Sugars (g),Starch (g),"⌀
+(-0.83; 0.66)"
+Body Fat (%),Starch (g),Fiber (g),"↓
+(-2.37; -1.08)"
+Body Fat (%),Intrinsic Sugars (g),Starch (g),"↑
+(2.15; 4.84)"
+Body Fat (%),Intrinsic Sugars (g),Fiber (g),"↑
+(0.87; 4.53)"
+Body Fat (%),Non-Milk Extrinisic Sugars (g),Fiber (g),"↓
+(-3.3; -1.42)"
+Body Fat (%),Non-Milk Extrinisic Sugars (g),Intrinsic Sugars (g),"↓
+(-4.14; -1.96)"
+Triglycerides (mmol/L),Non-Milk Extrinisic Sugars (g),Starch (g),"⌀
+(-0.02; 0.07)"
+Triglycerides (mmol/L),Starch (g),Fiber (g),"⌀
+(-0.06; 0.02)"
+Triglycerides (mmol/L),Intrinsic Sugars (g),Starch (g),"⌀
+(-0.04; 0.11)"
+Triglycerides (mmol/L),Intrinsic Sugars (g),Fiber (g),"⌀
+(-0.05; 0.09)"
+Triglycerides (mmol/L),Non-Milk Extrinisic Sugars (g),Fiber (g),"⌀
+(-0.06; 0.04)"
+Triglycerides (mmol/L),Non-Milk Extrinisic Sugars (g),Intrinsic Sugars (g),"⌀
+(-0.09; 0.04)"
+HDL (mmol/L),Non-Milk Extrinisic Sugars (g),Starch (g),"⌀
+(-0.02; 0.05)"
+HDL (mmol/L),Starch (g),Fiber (g),"⌀
+(-0.03; 0.04)"
+HDL (mmol/L),Intrinsic Sugars (g),Starch (g),"⌀
+(-0.06; 0.06)"
+HDL (mmol/L),Intrinsic Sugars (g),Fiber (g),"⌀
+(-0.07; 0.05)"
+HDL (mmol/L),Non-Milk Extrinisic Sugars (g),Fiber (g),"⌀
+(-0.02; 0.07)"
+HDL (mmol/L),Non-Milk Extrinisic Sugars (g),Intrinsic Sugars (g),"⌀
+(-0.02; 0.09)"
+LDL (mmol/L),Non-Milk Extrinisic Sugars (g),Starch (g),"⌀
+(-0.16; 0.01)"
+LDL (mmol/L),Starch (g),Fiber (g),"⌀
+(-0.1; 0.07)"
+LDL (mmol/L),Intrinsic Sugars (g),Starch (g),"⌀
+(-0.1; 0.19)"
+LDL (mmol/L),Intrinsic Sugars (g),Fiber (g),"⌀
+(-0.06; 0.2)"
+LDL (mmol/L),Non-Milk Extrinisic Sugars (g),Fiber (g),"⌀
+(-0.17; 0.04)"
+LDL (mmol/L),Non-Milk Extrinisic Sugars (g),Intrinsic Sugars (g),"⌀
+(-0.2; 0.05)"
+HbA1c (%),Non-Milk Extrinisic Sugars (g),Starch (g),"⌀
+(0.0; 0.1)"
+HbA1c (%),Starch (g),Fiber (g),"⌀
+(-0.04; 0.05)"
+HbA1c (%),Intrinsic Sugars (g),Starch (g),"⌀
+(-0.05; 0.1)"
+HbA1c (%),Intrinsic Sugars (g),Fiber (g),"⌀
+(-0.06; 0.08)"
+HbA1c (%),Non-Milk Extrinisic Sugars (g),Fiber (g),"⌀
+(-0.0; 0.1)"
+HbA1c (%),Non-Milk Extrinisic Sugars (g),Intrinsic Sugars (g),"⌀
+(-0.04; 0.1)"
+BMI (kg/m^2),Non-Milk Extrinisic Sugars (g),Starch (g),"⌀
+(-0.43; 0.63)"
+BMI (kg/m^2),Starch (g),Fiber (g),"↓
+(-1.46; -0.49)"
+BMI (kg/m^2),Intrinsic Sugars (g),Starch (g),"↑
+(1.48; 3.47)"
+BMI (kg/m^2),Intrinsic Sugars (g),Fiber (g),"↑
+(0.82; 3.55)"
+BMI (kg/m^2),Non-Milk Extrinisic Sugars (g),Fiber (g),"↓
+(-1.93; -0.55)"
+BMI (kg/m^2),Non-Milk Extrinisic Sugars (g),Intrinsic Sugars (g),"↓
+(-2.85; -1.26)"
+Waist Circumference (cm),Non-Milk Extrinisic Sugars (g),Starch (g),"⌀
+(-1.41; 1.6)"
+Waist Circumference (cm),Starch (g),Fiber (g),"↓
+(-2.82; -0.49)"
+Waist Circumference (cm),Intrinsic Sugars (g),Starch (g),"↑
+(3.94; 8.77)"
+Waist Circumference (cm),Intrinsic Sugars (g),Fiber (g),"↑
+(1.68; 8.07)"
+Waist Circumference (cm),Non-Milk Extrinisic Sugars (g),Fiber (g),"↓
+(-5.42; -1.49)"
+Waist Circumference (cm),Non-Milk Extrinisic Sugars (g),Intrinsic Sugars (g),"↓
+(-7.75; -3.52)"
